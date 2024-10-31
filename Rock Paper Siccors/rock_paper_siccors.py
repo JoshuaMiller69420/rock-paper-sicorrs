@@ -27,12 +27,13 @@ def user_2():
 
 
 def round_handler() -> None:
-    print("Round 1")
+    
+    print(current_round)
     user_1()
 
 
 def score_counter() -> None:
-
+    pass
 
 
 def main() -> None:
