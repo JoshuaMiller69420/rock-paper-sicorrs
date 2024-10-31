@@ -32,7 +32,7 @@ def round_handler() -> None:
     user_1()
 
 
-def score_counter() -> None:
+def score_counter() -> None: #no return value. Same as void
     pass
 
 
